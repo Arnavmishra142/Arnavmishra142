@@ -11,12 +11,12 @@ I'm an 18-year-old passionate developer from India. I don't just write code; I b
 - Bridge the gap between technical development and real-world B2B needs  
 
 Tech Stack:
-- Languages:** HTML5, CSS3, JavaScript
+- Languages: HTML, CSS, JavaScript
 - Tools/Platforms: Git, GitHub, Vercel, WordPress, Figma/Photoshop, HTML, CSS,js
 - Currently Learning/Exploring: React.js, Next.js, Backend Architectures
 
  Let's Connect:
-- **Portfolio:** [arnavmishra.vercel.app](https://arnavmishra.vercel.app)
+- **Portfolio: [arnavmishra.vercel.app](https://arnavmishra.vercel.app)
 - Twitter/X: [@ArnavMishra142](https://twitter.com/ArnavMishra142)
 
 
