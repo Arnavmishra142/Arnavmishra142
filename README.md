@@ -16,7 +16,7 @@ Tech Stack:
 - Currently Learning/Exploring: React.js, Next.js, Backend Architectures
 
  Let's Connect:
-- **Portfolio: [arnavmishra.vercel.app](https://arnavmishra.vercel.app)
+- Portfolio: [arnavmishra.vercel.app](https://arnavmishra.vercel.app)
 - Twitter/X: [@ArnavMishra142](https://twitter.com/ArnavMishra142)
 
 
