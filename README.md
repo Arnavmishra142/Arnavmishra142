@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi there, I'm Arnav Mishra! 
 
-<!--
-**Arnavmishra142/Arnavmishra142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack Developer | Tech Consultant | B2B Problem Solver
 
-Here are some ideas to get you started:
+I'm an 18-year-old passionate developer from India. I don't just write code; I build digital solutions (SaaS, Web Apps, Landing Pages) that help local and offline businesses scale and increase their revenue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I do:
+ - Build fast, responsive, SEO-friendly web applications  
+- Create high-converting landing pages for business growth  
+- Help offline businesses transition into digital systems  
+- Bridge the gap between technical development and real-world B2B needs  
+
+Tech Stack:
+- Languages:** HTML5, CSS3, JavaScript
+- Tools/Platforms: Git, GitHub, Vercel, WordPress, Figma/Photoshop, HTML, CSS,js
+- Currently Learning/Exploring: React.js, Next.js, Backend Architectures
+
+ Let's Connect:
+- **Portfolio:** [arnavmishra.vercel.app](https://arnavmishra.vercel.app)
+- Twitter/X: [@ArnavMishra142](https://twitter.com/ArnavMishra142)
+
+
+ I believe in execution over perfection. Constantly pushing code and closing deals.
